@@ -1,0 +1,4 @@
+#students will need to download the latest version of python and pip install the following libraries
+#install pyserial (then import serial)
+#install matplotlib
+#install csv
